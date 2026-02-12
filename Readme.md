@@ -1,3 +1,14 @@
 # First backend project
 
--[Model link](<[text](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)>)
+# First Backend
+
+## Tech Stack
+- Node.js
+- Express
+- MongoDB
+
+## Setup
+
+npm install  
+npm start
+
